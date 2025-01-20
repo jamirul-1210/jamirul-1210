@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 
 
-<!--
-**jamirul-1210/jamirul-1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Jamirul Islam], a [Full Stack Mern Developer ] passionate about [Web Development/Mern]. 
 
-Here are some ideas to get you started:
+**What I'm currently working on:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [my portfolio]
+* [chat-app]
+
+
+**Skills:** 
+* [HTML | CSS| TAILWINDCSS | JAVASCRIPT | TYPESCRIPT]
+* [REACT JS | NEXT JS]
+* [EXPRESS JS | MONGODB]
+* [DOCKER | AWS | SEVERLESS ]
+
+
+**Connect with me:**
+
+[LinkedIn URL] | [Twitter URL] | [Website URL] 
+
+
+**Want to collaborate?** 
+Feel free to reach out! 
+
+
