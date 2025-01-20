@@ -4,20 +4,20 @@ I'm [Jamirul Islam], a [Full Stack Mern Developer ] passionate about [Web Develo
 
 **What I'm currently working on:**
 
-* [my portfolio]
-* [chat-app]
+* [Jamirul.site](https://jamirul.site/)
+* [chat-app](https://chatapp.jamirul.site/)
 
 
 **Skills:** 
-* [HTML | CSS| TAILWINDCSS | JAVASCRIPT | TYPESCRIPT]
-* [REACT JS | NEXT JS]
-* [EXPRESS JS | MONGODB]
-* [DOCKER | AWS | SEVERLESS ]
+* HTML | CSS| TAILWINDCSS | JAVASCRIPT | TYPESCRIPT
+* REACT JS | NEXT JS
+* EXPRESS JS | MONGODB 
+* DOCKER | AWS | SEVERLESS 
 
 
 **Connect with me:**
 
-[LinkedIn URL] | [Twitter URL] | [Website URL] 
+[LinkedIn](https://www.linkedin.com/in/jamirul) | [Jamirul.site](https://jamirul.site/)
 
 
 **Want to collaborate?** 
