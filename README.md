@@ -9,7 +9,7 @@ I'm Jamirul Islam, a Full Stack Mern Developer passionate about Web Development/
 
 
 **Skills:** 
-* HTML | CSS| TAILWINDCSS | JAVASCRIPT | TYPESCRIPT
+* HTML | CSS | TAILWINDCSS | JAVASCRIPT | TYPESCRIPT
 * REACT JS | NEXT JS
 * EXPRESS JS | MONGODB 
 * DOCKER | AWS | SEVERLESS 
